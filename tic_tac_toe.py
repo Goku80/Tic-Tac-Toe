@@ -3,8 +3,8 @@ from tkinter import messagebox
 import random
 
 # Initialisierung der Emojis
-PLAYER_EMOJI = '🤩'  
-COMPUTER_EMOJI = '😎' 
+PLAYER_EMOJI = '🦁'  
+COMPUTER_EMOJI = '🦊' 
 
 
 def draw_board(board, buttons):
