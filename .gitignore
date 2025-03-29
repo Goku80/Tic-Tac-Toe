@@ -1,0 +1,53 @@
+# Python-Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Spielstatistiken
+tic_tac_toe_stats.json
+
+# Virtuelle Umgebungen
+venv/
+env/
+ENV/
+.venv/
+.env/
+.python-version
+
+# Distribution/Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Temporäre Dateien
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE-spezifische Dateien
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# Logs und Debugging
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Lokale Konfigurationen
+config.ini
+config.py
+settings.json

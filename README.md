@@ -1,8 +1,47 @@
-# Tic-Tac-Toe
-Ein interaktives Tic Tac Toe Spiel mit Emojis als Spielsteine.
-Spieler können zwischen verschiedenen Emojis wählen und gegen den Computer antreten. Das Spiel bietet eine grafische Benutzeroberfläche,
-in der Spieler abwechselnd Züge machen, bis ein Spieler gewinnt oder das Spiel unentschieden endet. 
-Das Projekt verwendet die tkinter-Bibliothek für die GUI und bietet eine einfache, aber unterhaltsame Spielerfahrung.
+# 🎮 Tic Tac Toe Deluxe 🎮
 
+Ein modernes, anpassbares Tic Tac Toe Spiel mit Emojis, verschiedenen Farbthemen und Schwierigkeitsgraden.
 
-![tictactoe](https://github.com/Goku80/Rekursive-Kreise-Visualisierung/assets/100942501/c87a5569-e694-44c3-82f7-8b8a37dfae50)
+## 🌟 Features
+
+- **Emoji-Spielsteine:** Wähle aus verschiedenen Emoji-Kategorien (Tiere, Obst, Gesichter, Symbole)
+- **Farbthemen:** Wähle aus vier verschiedenen Farbthemen (Hell, Dunkel, Blau, Rosa)
+- **Schwierigkeitsgrade:** Drei verschiedene Schwierigkeitsstufen (Leicht, Mittel, Schwer)
+- **Spielstatistiken:** Nachverfolgung von Siegen, Niederlagen und Unentschieden
+- **Visuelle Effekte:** Hervorhebung der Gewinnlinie
+
+## 🔧 Installation
+
+### Voraussetzungen
+- Python 3.6 oder höher
+- Tkinter (meist in Python-Standardinstallation enthalten)
+
+### Installation von Tkinter (falls nicht vorhanden)
+
+**Für macOS:**
+```bash
+brew install python-tk
+```
+
+**Für Linux:**
+```bash
+sudo apt-get install python3-tk  # Für Debian/Ubuntu
+sudo dnf install python3-tkinter  # Für Fedora
+```
+
+**Für Windows:**
+Tkinter ist normalerweise bereits in der Python-Installation enthalten.
+
+### Projekt klonen/herunterladen
+```bash
+git clone https://github.com/dein-username/tic-tac-toe-deluxe.git
+cd tic-tac-toe-deluxe
+```
+
+## 🚀 Spielstart
+
+```bash
+python main.py
+```
+
+## 📁 Projektstruktur
